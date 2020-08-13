@@ -23,5 +23,6 @@ On Windows, it is the same but you may have to do some additional work to enable
 Currently, the project is severly limited. 
 
 Here are some things I would like to add:
-- A simple electron application to interface/start the app
+- A simple electron application to interface with adding new wallpapers
+- A simple toggle to enable or disable the application
 - A more configurable, cron-style system for specifying when to change wallpaper (every day at 5pm for example)
